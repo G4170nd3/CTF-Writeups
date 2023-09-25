@@ -1,0 +1,1 @@
+Can you find the name of the file exfiltrated from the target host?
